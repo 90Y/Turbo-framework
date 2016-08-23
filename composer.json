@@ -1,5 +1,5 @@
-
-    "name": "xie/turbo",
+{
+    "name": "epregboy/turbo-framework",
     "description": "a php framework like turbo",
     "type": "library",
     "license": "MIT",
