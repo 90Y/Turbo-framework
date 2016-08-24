@@ -19,5 +19,7 @@
             "Turbo\\": "src"
         }
     },
-    "require": {}
+    "require": {},
+
+    "minimum-stability": "dev"
 }
