@@ -1,6 +1,7 @@
 <?php
 
-namespace Turbol\Interfaces\Database;
+namespace Turbo\Database;
+use Turbo\Interfaces\Database\Database;
 
 class MySqli implements Database
 {
@@ -14,3 +15,4 @@ class MySqli implements Database
         return 'ok';
     }
 }
+
