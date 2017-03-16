@@ -6,10 +6,10 @@
 	基于Composer 搭建。内置两个测试App(member,shop)
 
 ## 联系
-    email:epregboy@gmail.com
-    web: http://i.welge.me
+    email: epregboy@gmail.com
+    web: http://i.welge.me/
 	qq群：82897144
 
 ## 后言
-    该项目可以用于学习，交流，共同发展。
+    该项目可以用于学习，交流，共同发展
 
