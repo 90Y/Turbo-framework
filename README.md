@@ -7,7 +7,7 @@
 
 ## 联系
     email: epregboy@gmail.com
-    web: http://i.welge.me/
+    web: <http://i.welge.me/>
 	qq群：82897144
 
 ## 后言
