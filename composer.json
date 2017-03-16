@@ -1,0 +1,25 @@
+{
+    "name": "epregboy/turbo-framework",
+    "description": "a php framework like turbo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dsslo",
+            "email": "epregboy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+        ],
+        "files": [
+        ],
+        "psr-4": {
+            "Turbo\\": "src"
+        }
+    },
+    "require": {
+        "symfony/http-foundation": "^3.1",
+        "joshcam/mysqli-database-class": "dev-master"
+    }
+}
